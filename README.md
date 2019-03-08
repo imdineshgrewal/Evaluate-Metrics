@@ -3,8 +3,9 @@
 Performance Evaluation
 Performance evaluation plays a dominant role in the technique of predictive modelling. The performance of a predictive model is calculated and compared by choosing the right metrics. So, it is very crucial to choose the right metrics for a particular predictive model in order to get an accurate outcome. It is very important to evaluate proper predictive models because various kinds of data sets are going to be used for the same predictive model.
 
-Common Metrics That Are Used To Evaluate Predictive Models
-Area Under The ROC Curve (AUC-ROC): This is one of the popular metrics that has been used in the industry. The nature of this metric is independent of the change in the proportion of responders and that’s the biggest advantage of this metric. A model will be represented as a single point in the ROC plot where the class is an outcome.
+# Common Metrics That Are Used To Evaluate Predictive Models
+### Area Under The ROC Curve (AUC-ROC): 
+This is one of the popular metrics that has been used in the industry. The nature of this metric is independent of the change in the proportion of responders and that’s the biggest advantage of this metric. A model will be represented as a single point in the ROC plot where the class is an outcome.
 
 
 
